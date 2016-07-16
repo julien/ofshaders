@@ -1,0 +1,8 @@
+obj/**
+**/shaders
+**/shaders_debug
+**/libs/**
+*.log
+*.qbs
+*.user
+
